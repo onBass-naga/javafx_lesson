@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:controller="com.example.hello.HelloController" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label>
+            <text>Hello fxml!!</text>
+        </Label>
+        <Label fx:id="label"/>
+    </children>
+</VBox>
