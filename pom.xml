@@ -18,6 +18,7 @@
     <modules>
         <module>lesson01_maven_hello</module>
         <module>lesson02_hello_fxml</module>
+        <module>lesson03_action</module>
     </modules>
 
 
